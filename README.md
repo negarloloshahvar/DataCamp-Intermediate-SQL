@@ -4,10 +4,10 @@
 
 This course covers:
 
-✓ How to filter and compare data
-✓ How to use aggregate functions to summarize data
-✓ How to sort and group your data
-✓ How to present your data cleanly using tools such as rounding and aliasing
+-How to filter and compare data
+-How to use aggregate functions to summarize data
+-How to sort and group your data
+-How to present your data cleanly using tools such as rounding and aliasing
 
 ### Chapters
 
