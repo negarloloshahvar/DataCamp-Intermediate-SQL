@@ -13,6 +13,6 @@ This course covers:
 
 - [ ] 1. Selecting Data
 - [ ] 2. Filtering Records
-          ####SQL vocabulary from this chapter includes COUNT(), DISTINCT, LIMIT, WHERE, OR, AND, BETWEEN, LIKE, NOT LIKE, and IN. 
+####SQL vocabulary from this chapter includes COUNT(), DISTINCT, LIMIT, WHERE, OR, AND, BETWEEN, LIKE, NOT LIKE, and IN. 
 - [ ] 3. Aggregate Functions
 - [ ] 4. Sorting and Grouping
